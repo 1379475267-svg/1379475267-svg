@@ -112,3 +112,55 @@ STM32 Embedded Development  ███████░░░
 Game Data APIs              ██████░░░░
 Music Tech Tools            ████████░░
 Creative Coding             ███████░░░
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1379475267-svg&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1379475267-svg&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=1379475267-svg&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1379475267-svg&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌙 A Small Note
+
+I want my projects to feel useful, creative, and personal.
+
+Technology is not only about solving problems.  
+Sometimes, it is also a way to record memory, express emotion, and build something gentle.
+
+```txt
+Code for logic.
+Music for emotion.
+Projects for memory.
+```
+
+---
+
+## 🌐 Find Me
+
+- GitHub: [@1379475267-svg](https://github.com/1379475267-svg)
+- Email: [1379475267@qq.com](mailto:1379475267@qq.com)
+- Bilibili: [space.bilibili.com/19876581](https://space.bilibili.com/19876581)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+
+</div>
