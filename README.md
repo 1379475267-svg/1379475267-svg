@@ -77,13 +77,15 @@ Built with Vue 3, Vite, Vue Router, Django REST Framework and SQLite.
 </td>
 <td width="33%">
 
-### 🎣 Smart Fishing Alert
+### 🪐 Interactive Particle Saturn
 
-An STM32-based fishing bite detection and alert system.
+A cinematic Three.js experiment featuring a particle-based Saturn system.
 
-Uses motion sensing and vibration feedback to detect possible fish bites.
+Built with dynamic rings, gesture interaction, motion and lighting.
 
-[Repository](https://github.com/1379475267-svg/smart-fishing-alert)
+[Repository](https://github.com/1379475267-svg/interactive-particle-saturn)
+
+[Live Demo](https://1379475267-svg.github.io/interactive-particle-saturn/)
 
 </td>
 <td width="33%">
