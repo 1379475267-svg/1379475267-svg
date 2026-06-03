@@ -4,9 +4,13 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Electronic+Information+Science+Student;Full-stack+%26+Embedded+Systems+Learner;Building+GameMemory+%7C+STM32+%7C+Music+Tech;Code+%C2%B7+Music+%C2%B7+Memory+%C2%B7+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Electronic+Information+Science+Student;Full-stack+%26+Creative+Coding+Learner;Building+GameMemory+%7C+Particle+Saturn+%7C+Music+Tech;Code+%C2%B7+Music+%C2%B7+Memory+%C2%B7+Creativity)](https://git.io/typing-svg)
+
+**Full-stack learner · creative coder · music-tech explorer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
+![Focus](https://img.shields.io/badge/Focus-Full--stack%20%2B%20Creative%20Coding-667eea?style=flat-square)
+![Mood](https://img.shields.io/badge/Mood-Code%20%2B%20Music%20%2B%20Memory-764ba2?style=flat-square)
 
 </div>
 
@@ -61,7 +65,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🎮 GameMemory
 
@@ -71,10 +75,10 @@ Built with Vue 3, Vite, Vue Router, Django REST Framework and SQLite.
 
 > Recording not only what I played, but also how each game felt.
 
-[Repository](https://github.com/1379475267-svg/GameMemory)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/GameMemory)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🪐 Interactive Particle Saturn
 
@@ -82,20 +86,20 @@ A cinematic Three.js experiment featuring a particle-based Saturn system.
 
 Built with dynamic rings, gesture interaction, motion and lighting.
 
-[Repository](https://github.com/1379475267-svg/interactive-particle-saturn)
-
-[Live Demo](https://1379475267-svg.github.io/interactive-particle-saturn/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/interactive-particle-saturn)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/interactive-particle-saturn/)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🎼 Music Theory Lab
 
 An interactive music learning project for CAGED system, piano keys, staff notation and beginner-friendly music theory.
 
-[Repository](https://github.com/1379475267-svg/fretboard-caged-lab)
+Built for learning, listening and visualizing music structure.
 
-[Live Demo](https://1379475267-svg.github.io/fretboard-caged-lab/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/fretboard-caged-lab)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/fretboard-caged-lab/)
 
 </td>
 </tr>
@@ -144,18 +148,13 @@ Game Memory Systems         ███████░░░
 
 ---
 
-## 🌙 A Small Note
+## 🌙 Creative Thread
 
-I want my projects to feel useful, creative, and personal.
+> Code for logic.  
+> Music for emotion.  
+> Projects for memory.
 
-Technology is not only about solving problems.  
-Sometimes, it is also a way to record memory, express emotion, and build something gentle.
-
-```txt
-Code for logic.
-Music for emotion.
-Projects for memory.
-```
+> “Code is not only logic. It is also a way to remember, express, and build gently.”
 
 ---
 
@@ -168,12 +167,6 @@ Projects for memory.
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/19876581)
 
 </div>
-
----
-
-## ✨ Personal Motto
-
-> “Code is not only logic. It is also a way to remember, express, and build gently.”
 
 ---
 
