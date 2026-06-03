@@ -16,9 +16,8 @@
 
 - 🎓 Electronic Information Science student
 - 💻 Learning full-stack development with **Vue**, **Django** and **REST APIs**
-- 🔧 Building embedded projects with **STM32** and sensors
 - 🎮 Working on **GameMemory**, a personal game rating and memory archive
-- 🎣 Created **Smart Fishing Alert**, an STM32-based fishing bite detection system
+- 🪐 Building visual and interactive experiments with **Three.js**, particles and gesture control
 - 🎼 Building interactive tools for music theory learning
 - 🎸 Interested in guitar, piano, music theory and music-tech experiments
 
@@ -108,12 +107,11 @@ An interactive music learning project for CAGED system, piano keys, staff notati
 
 ```txt
 Full-stack Deployment       ████████░░
-Django REST Framework       ███████░░░
 Vue 3 Application Design    ████████░░
-STM32 Embedded Development  ███████░░░
-Game Data APIs              ██████░░░░
-Music Tech Tools            ████████░░
-Creative Coding             ███████░░░
+Django REST Framework       ███████░░░
+Three.js Creative Coding    ████████░░
+Interactive Music Tools     ███████░░░
+Game Memory Systems         ███████░░░
 ```
 
 ---
@@ -173,17 +171,9 @@ Projects for memory.
 
 ---
 
-## ✍️ Quote of the Day
+## ✨ Personal Motto
 
 > “Code is not only logic. It is also a way to remember, express, and build gently.”
-
----
-
-## 🌐 Find Me
-
-- GitHub: [@1379475267-svg](https://github.com/1379475267-svg)
-- Email: [1379475267@qq.com](mailto:1379475267@qq.com)
-- Bilibili: [space.bilibili.com/19876581](https://space.bilibili.com/19876581)
 
 ---
 
