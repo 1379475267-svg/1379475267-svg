@@ -161,6 +161,24 @@ Projects for memory.
 
 ---
 
+## 🔗 Socials
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1379475267-svg)
+[![Email](https://img.shields.io/badge/Email-1379475267%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1379475267@qq.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/19876581)
+
+</div>
+
+---
+
+## ✍️ Quote of the Day
+
+> “Code is not only logic. It is also a way to remember, express, and build gently.”
+
+---
+
 ## 🌐 Find Me
 
 - GitHub: [@1379475267-svg](https://github.com/1379475267-svg)
