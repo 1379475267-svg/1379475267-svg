@@ -31,25 +31,20 @@
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend & Backend
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+
+### Creative, Data & Embedded
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Embedded & Creative Coding
-
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### Tools
 
@@ -107,26 +102,19 @@ Built for learning, listening and visualizing music structure.
 
 ---
 
-## 📌 Current Focus
+## 📌 Currently Exploring
 
-```txt
-Full-stack Deployment       ████████░░
-Vue 3 Application Design    ████████░░
-Django REST Framework       ███████░░░
-Three.js Creative Coding    ████████░░
-Interactive Music Tools     ███████░░░
-Game Memory Systems         ███████░░░
-```
+- Full-stack deployment for Vue + Django projects
+- Three.js creative coding and gesture-driven interaction
+- Music learning interfaces for guitar, piano and theory
+- Personal memory systems for games, notes and creative work
+- Cleaner UI design for small tools and portfolio projects
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=1379475267-svg&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-
-<br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1379475267-svg&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
