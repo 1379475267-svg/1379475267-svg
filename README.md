@@ -4,9 +4,9 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Electronic+Information+Science+Student;Full-stack+%26+Creative+Coding+Learner;Building+GameMemory+%7C+Interactive+Particle+Saturn+%7C+Music+Tech;Code+%C2%B7+Music+%C2%B7+Memory+%C2%B7+Creativity)](https://git.io/typing-svg)
+<h3>Full-stack & Creative Coding Learner</h3>
 
-**Full-stack learner · creative coder · music-tech explorer**
+<p>Building personal tools with Vue, Django, Three.js and music-tech ideas.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-Full--stack%20%2B%20Creative%20Coding-667eea?style=flat-square)
