@@ -4,7 +4,7 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Electronic+Information+Science+Student;Full-stack+%26+Creative+Coding+Learner;Building+GameMemory+%7C+Particle+Saturn+%7C+Music+Tech;Code+%C2%B7+Music+%C2%B7+Memory+%C2%B7+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Electronic+Information+Science+Student;Full-stack+%26+Creative+Coding+Learner;Building+GameMemory+%7C+Interactive+Particle+Saturn+%7C+Music+Tech;Code+%C2%B7+Music+%C2%B7+Memory+%C2%B7+Creativity)](https://git.io/typing-svg)
 
 **Full-stack learner · creative coder · music-tech explorer**
 
@@ -71,6 +71,7 @@ Built with Vue 3, Vite, Vue Router, Django REST Framework and SQLite.
 > Recording not only what I played, but also how each game felt.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/GameMemory)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/GameMemory/)
 
 </td>
 <td width="33%" valign="top">
