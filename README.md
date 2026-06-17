@@ -4,7 +4,7 @@
 
 # Hi, I'm Haoran Fei 👋
 
-<h3>Full-stack & Creative Coding Learner</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&center=true&vCenter=true&repeat=false&width=720&lines=Full-stack+%26+Creative+Coding+Learner)](https://git.io/typing-svg)
 
 <p>Building personal tools with Vue, Django, Three.js and music-tech ideas.</p>
 
