@@ -4,7 +4,7 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&center=true&vCenter=true&repeat=false&width=720&lines=Full-stack+%26+Creative+Coding+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;Game+Memory+Archive+Builder;Three.js+Visual+Experimenter;Music-Tech+Interface+Maker)](https://git.io/typing-svg)
 
 <p>Building personal tools with Vue, Netlify Functions, Supabase, Three.js and music-tech ideas.</p>
 
@@ -24,6 +24,12 @@
 - 🪐 Building visual and interactive experiments with **Three.js**, particles and gesture control
 - 🎼 Building interactive tools for music theory learning
 - 🎸 Interested in guitar, piano, music theory and music-tech experiments
+
+<div align="center">
+
+[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=Vue+interfaces+with+real+data;Serverless+APIs+on+Netlify;Supabase-backed+personal+tools;Creative+coding+with+Three.js;Music+and+memory+as+software)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -60,6 +66,12 @@
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;Interactive+Particle+Saturn+%7C+visual+experiment;Music+Theory+Lab+%7C+learning+interface)](https://git.io/typing-svg)
+
+</div>
 
 <table>
 <tr>
