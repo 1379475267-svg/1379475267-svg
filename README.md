@@ -1,89 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Haoran Fei profile header" />
 
-# Hi, I'm Haoran Fei 👋
+# Hi, I'm Haoran Fei
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;Game+Memory+Archive+Builder;Three.js+Visual+Experimenter;Music-Tech+Interface+Maker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=780&lines=Electronic+Information+Science+Student;Embedded+Systems+%2B+Full-stack+Tools;Creative+Coding+%2B+Music-Tech;Code+%2B+Music+%2B+Memory)](https://git.io/typing-svg)
 
-<p>Building personal tools with Vue, Netlify Functions, Supabase, Three.js and music-tech ideas.</p>
+<p>
+  Electronic Information Science student building small but meaningful projects across
+  embedded systems, full-stack tools, creative coding, and music-tech.
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
-![Focus](https://img.shields.io/badge/Focus-Full--stack%20%2B%20Creative%20Coding-667eea?style=flat-square)
-![Mood](https://img.shields.io/badge/Mood-Code%20%2B%20Music%20%2B%20Memory-764ba2?style=flat-square)
+<p><strong>Code + Music + Memory</strong></p>
 
-</div>
-
----
-
-## 🧭 About Me
-
-- 🎓 Electronic Information Science student
-- 💻 Building full-stack projects with **Vue**, **Netlify Functions**, **Supabase**, **Django** and **REST APIs**
-- 🎮 Working on **GameMemory**, a full-stack game archive for ratings, reviews, Steam imports and memory sharing
-- 🪐 Building visual and interactive experiments with **Three.js**, particles and gesture control
-- 🎼 Building interactive tools for music theory learning
-- 🎸 Interested in guitar, piano, music theory and music-tech experiments
-
-<div align="center">
-
-[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=Vue+interfaces+with+real+data;Serverless+APIs+on+Netlify;Supabase-backed+personal+tools;Creative+coding+with+Three.js;Music+and+memory+as+software)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=667eea)
+![Focus](https://img.shields.io/badge/Focus-Student%20Builder-667eea?style=flat-square)
+![Mood](https://img.shields.io/badge/Mood-Building%20Quietly-764ba2?style=flat-square)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-<div align="center">
+- Electronic Information Science student with interests in embedded systems and human-centered tools.
+- Building full-stack projects with **Vue**, **Django**, **Supabase**, **Netlify Functions**, and **REST APIs**.
+- Exploring **Three.js**, particle systems, motion, and gesture-driven interaction.
+- Creating interactive tools for music theory learning, including guitar, piano, notation, and visual theory.
+- Interested in guitar, piano, music theory, and music-tech experiments.
 
-### Languages & Frameworks
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## Tech Stack
 
-### Creative, Data & Embedded
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
+### Engineering
+
+`C` · `STM32` · `Keil` · `Linux` · `Git`
+
+### Web & Backend
+
+`Vue` · `Vite` · `Django` · `REST APIs` · `Supabase` · `Netlify Functions`
+
+</td>
+<td width="50%" valign="top">
+
+### Creative Tech
+
+`Three.js` · `Particle Systems` · `Gesture Interaction` · `Music Learning Interfaces`
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`GitHub` · `VS Code` · `Netlify` · `Supabase`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;Interactive+Particle+Saturn+%7C+visual+experiment;Music+Theory+Lab+%7C+learning+interface)](https://git.io/typing-svg)
-
-</div>
+## Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🎮 GameMemory
+### GameMemory
 
-A full-stack personal game archive for searching, importing, rating, tagging, reviewing and sharing game memories.
+A full-stack personal game archive for searching, importing, rating, tagging, reviewing, and sharing game memories.
 
-Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and SteamGridDB.
-
-> Recording not only what I played, but also how each game felt.
+Built with **Vue 3**, **Vite**, **Netlify Functions**, **Supabase**, **RAWG API**, **Steam Web API**, and **SteamGridDB**.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/GameMemory)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://1gamememory1.netlify.app)
@@ -91,11 +80,11 @@ Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and
 </td>
 <td width="33%" valign="top">
 
-### 🪐 Interactive Particle Saturn
+### Interactive Particle Saturn
 
-A cinematic Three.js experiment featuring a particle-based Saturn system.
+A cinematic Three.js visual experiment featuring a particle-based Saturn system.
 
-Built with dynamic rings, gesture interaction, motion and lighting.
+Built around dynamic rings, gesture interaction, motion, and lighting.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/interactive-particle-saturn)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/interactive-particle-saturn/)
@@ -103,11 +92,11 @@ Built with dynamic rings, gesture interaction, motion and lighting.
 </td>
 <td width="33%" valign="top">
 
-### 🎼 Music Theory Lab
+### Music Theory Lab
 
-An interactive music learning project for CAGED system, piano keys, staff notation and beginner-friendly music theory.
+A beginner-friendly interactive music learning project for the CAGED system, piano keys, staff notation, and visual theory.
 
-Built for learning, listening and visualizing music structure.
+Built for learning, listening, and understanding music structure through small interactive tools.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/fretboard-caged-lab)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/fretboard-caged-lab/)
@@ -118,18 +107,17 @@ Built for learning, listening and visualizing music structure.
 
 ---
 
-## 📌 Currently Exploring
+## Currently Exploring
 
-- Serverless APIs, Supabase-backed apps and production deployment workflows
-- Game data integrations with RAWG, Steam Web API and SteamGridDB
-- Three.js creative coding and gesture-driven interaction
-- Music learning interfaces for guitar, piano and theory
-- Personal memory systems for games, notes and creative work
-- Cleaner UI design for small tools and portfolio projects
+- Serverless APIs, Supabase-backed apps, and production deployment workflows.
+- Game data integrations with RAWG, Steam Web API, and SteamGridDB.
+- Three.js creative coding, particle systems, and gesture-driven interfaces.
+- Music learning interfaces for guitar, piano, notation, and theory.
+- Personal memory systems for games, notes, and creative work.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -139,31 +127,32 @@ Built for learning, listening and visualizing music structure.
 
 ---
 
-## 🐍 Contribution Snake
+## Creative Thread
+
+> Code for logic.  
+> Music for emotion.  
+> Projects for memory.
+
+> Code is not only logic. It can also be a quiet way to remember, express, and build.
+
+<details>
+<summary>Contribution animation</summary>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
-
-## 🌙 Creative Thread
-
-> Code for logic.  
-> Music for emotion.  
-> Projects for memory.
-
-> “Code is not only logic. It is also a way to remember, express, and build gently.”
+</details>
 
 ---
 
-## 🔗 Socials
+## Socials
 
 <div align="center">
 
@@ -177,6 +166,6 @@ Built for learning, listening and visualizing music structure.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Profile footer wave" />
 
 </div>
