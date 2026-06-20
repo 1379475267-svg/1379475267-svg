@@ -129,6 +129,43 @@ Built for learning, listening and visualizing music structure.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=1379475267-svg&show_icons=true&hide_border=false&border_color=ffffff&title_color=38bdf8&text_color=e5e7eb&icon_color=22d3ee&bg_color=0d1117&rank_icon=github&include_all_commits=true"
+    alt="My GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=1379475267-svg&theme=dark&hide_border=false&border=ffffff&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=A1A1AA"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="65%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1379475267-svg&layout=compact&hide_border=false&border_color=ffffff&title_color=ffffff&text_color=e5e7eb&bg_color=0d1117&langs_count=8"
+    alt="My Programming Languages"
+  />
+</div>
+
+---
+
+## Profile View
+
+<div align="center">
+
+<img src="https://count.getloli.com/@1379475267-svg?name=1379475267-svg&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile View Counter" />
+
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
