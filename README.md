@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&center=true&vCenter=true&repeat=false&width=720&lines=Full-stack+%26+Creative+Coding+Learner)](https://git.io/typing-svg)
 
-<p>Building personal tools with Vue, Django, Three.js and music-tech ideas.</p>
+<p>Building personal tools with Vue, Netlify Functions, Supabase, Three.js and music-tech ideas.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-Full--stack%20%2B%20Creative%20Coding-667eea?style=flat-square)
@@ -19,8 +19,8 @@
 ## 🧭 About Me
 
 - 🎓 Electronic Information Science student
-- 💻 Learning full-stack development with **Vue**, **Django** and **REST APIs**
-- 🎮 Working on **GameMemory**, a personal game rating and memory archive
+- 💻 Building full-stack projects with **Vue**, **Netlify Functions**, **Supabase**, **Django** and **REST APIs**
+- 🎮 Working on **GameMemory**, a full-stack game archive for ratings, reviews, Steam imports and memory sharing
 - 🪐 Building visual and interactive experiments with **Three.js**, particles and gesture control
 - 🎼 Building interactive tools for music theory learning
 - 🎸 Interested in guitar, piano, music theory and music-tech experiments
@@ -37,11 +37,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Creative, Data & Embedded
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
@@ -50,6 +52,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -64,14 +67,14 @@
 
 ### 🎮 GameMemory
 
-A personal game archive and rating system.
+A full-stack personal game archive for searching, importing, rating, tagging, reviewing and sharing game memories.
 
-Built with Vue 3, Vite, Vue Router, Django REST Framework and SQLite.
+Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and SteamGridDB.
 
 > Recording not only what I played, but also how each game felt.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/GameMemory)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/GameMemory/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://1gamememory1.netlify.app)
 
 </td>
 <td width="33%" valign="top">
@@ -105,7 +108,8 @@ Built for learning, listening and visualizing music structure.
 
 ## 📌 Currently Exploring
 
-- Full-stack deployment for Vue + Django projects
+- Serverless APIs, Supabase-backed apps and production deployment workflows
+- Game data integrations with RAWG, Steam Web API and SteamGridDB
 - Three.js creative coding and gesture-driven interaction
 - Music learning interfaces for guitar, piano and theory
 - Personal memory systems for games, notes and creative work
