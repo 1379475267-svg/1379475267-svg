@@ -1,0 +1,72 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Trophy Wall</title>
+  <desc id="desc">A dark themed trophy wall for Haoran Fei's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.35 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="170" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="168" rx="13" stroke="#30363d" stroke-width="2"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="450" y="32" text-anchor="middle" font-size="20" font-weight="700" fill="#e5e7eb">Trophy Wall</text>
+    <text x="450" y="53" text-anchor="middle" font-size="12" fill="#94a3b8">Full-stack, creative coding, music-tech, and memory tools</text>
+  </g>
+
+  <g transform="translate(25 72)">
+    <g>
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <path d="M54 18h22v13c0 9-5 15-11 15s-11-6-11-15V18Z" fill="url(#accent)" filter="url(#softGlow)"/>
+      <path d="M50 22h-9c0 11 5 18 14 19M80 22h9c0 11-5 18-14 19" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+      <rect x="58" y="47" width="14" height="7" rx="2" fill="#8b5cf6"/>
+      <rect x="48" y="56" width="34" height="5" rx="2.5" fill="#38bdf8"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">CREATOR</text>
+    </g>
+
+    <g transform="translate(144 0)">
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <circle cx="65" cy="33" r="17" fill="none" stroke="url(#accent)" stroke-width="7"/>
+      <path d="M65 17v16l10 8" stroke="#e5e7eb" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">COMMITTER</text>
+    </g>
+
+    <g transform="translate(288 0)">
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <path d="M65 14l6.2 12.6 13.8 2-10 9.7 2.4 13.7L65 45.5 52.6 52l2.4-13.7-10-9.7 13.8-2L65 14Z" fill="url(#accent)" filter="url(#softGlow)"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">STAR SEEKER</text>
+    </g>
+
+    <g transform="translate(432 0)">
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <path d="M47 48c0-12 8-22 18-22s18 10 18 22" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="65" cy="24" r="11" fill="#38bdf8"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">COLLABORATOR</text>
+    </g>
+
+    <g transform="translate(576 0)">
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <rect x="44" y="21" width="42" height="28" rx="5" fill="none" stroke="url(#accent)" stroke-width="5"/>
+      <path d="M54 33h22M54 42h13" stroke="#e5e7eb" stroke-width="4" stroke-linecap="round"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">BUILDER</text>
+    </g>
+
+    <g transform="translate(720 0)">
+      <rect width="130" height="74" rx="10" fill="#111827" stroke="#334155"/>
+      <path d="M65 16c14 0 25 8 25 19S79 54 65 54 40 46 40 35s11-19 25-19Z" fill="none" stroke="url(#accent)" stroke-width="6"/>
+      <path d="M53 35h24M65 23v24" stroke="#e5e7eb" stroke-width="4" stroke-linecap="round"/>
+      <text x="65" y="67" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#e5e7eb">EXPLORER</text>
+    </g>
+  </g>
+</svg>

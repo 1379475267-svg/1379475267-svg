@@ -160,7 +160,7 @@ Built for learning, listening and visualizing music structure.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=1379475267-svg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies" />
+<img src="./assets/github-trophies.svg" alt="GitHub trophies" />
 
 </div>
 
