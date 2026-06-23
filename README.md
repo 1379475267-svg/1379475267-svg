@@ -4,12 +4,12 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;Game+Memory+Archive+Builder;Three.js+Visual+Experimenter;Music-Tech+Interface+Maker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;GameMemory+Builder;Three.js+Visual+Experimenter;Music-Tech+Interface+Maker;Learning+by+Shipping+Small+Tools)](https://git.io/typing-svg)
 
-<p>Building personal tools with Vue, Netlify Functions, Supabase, Three.js and music-tech ideas.</p>
+<p>Building personal tools where code, games, music and memory meet.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
-![Focus](https://img.shields.io/badge/Focus-Full--stack%20%2B%20Creative%20Coding-667eea?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20Supabase%20%2B%20Three.js-667eea?style=flat-square)
 ![Mood](https://img.shields.io/badge/Mood-Code%20%2B%20Music%20%2B%20Memory-764ba2?style=flat-square)
 
 </div>
@@ -18,18 +18,54 @@
 
 ## 🧭 About Me
 
-- 🎓 Electronic Information Science student
-- 💻 Building full-stack projects with **Vue**, **Netlify Functions**, **Supabase**, **Django** and **REST APIs**
-- 🎮 Working on **GameMemory**, a full-stack game archive for ratings, reviews, Steam imports and memory sharing
-- 🪐 Building visual and interactive experiments with **Three.js**, particles and gesture control
-- 🎼 Building interactive tools for music theory learning
-- 🎸 Interested in guitar, piano, music theory and music-tech experiments
+- 🎓 Electronic Information Science student exploring software, interaction and creative systems
+- 💻 Building full-stack projects with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **Django** and **REST APIs**
+- 🎮 Developing **GameMemory**, a personal game archive for ratings, reviews, Steam imports and memory sharing
+- 🪐 Creating visual experiments with **Three.js**, particle motion, lighting and gesture interaction
+- 🎼 Designing small music-learning interfaces for guitar, piano, staff notation and theory
+- 🧠 Interested in tools that help people remember, learn and express ideas more clearly
 
 <div align="center">
 
-[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=Vue+interfaces+with+real+data;Serverless+APIs+on+Netlify;Supabase-backed+personal+tools;Creative+coding+with+Three.js;Music+and+memory+as+software)](https://git.io/typing-svg)
+[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=GameMemory+features+and+polish;Vue+interfaces+with+real+data;Serverless+APIs+on+Netlify;Supabase-backed+personal+tools;Creative+coding+with+Three.js;Music+and+memory+as+software)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Shipping
+
+- GameMemory search, rating and review flows
+- Cleaner UI states for personal tools
+- Small demos that are easy to open and understand
+
+</td>
+<td width="33%" valign="top">
+
+### Learning
+
+- Vue component architecture
+- Supabase-backed app patterns
+- Three.js scenes, particles and interaction
+
+</td>
+<td width="33%" valign="top">
+
+### Exploring
+
+- Music theory as interactive software
+- Game memory and personal archives
+- Creative interfaces for learning and expression
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,14 +154,14 @@ Built for learning, listening and visualizing music structure.
 
 ---
 
-## 📌 Currently Exploring
+## 📌 2026 Direction
 
-- Serverless APIs, Supabase-backed apps and production deployment workflows
-- Game data integrations with RAWG, Steam Web API and SteamGridDB
-- Three.js creative coding and gesture-driven interaction
-- Music learning interfaces for guitar, piano and theory
-- Personal memory systems for games, notes and creative work
-- Cleaner UI design for small tools and portfolio projects
+- Ship more polished full-stack projects instead of only prototypes
+- Improve production deployment habits with Netlify, Supabase and GitHub workflows
+- Deepen game data integrations with RAWG, Steam Web API and SteamGridDB
+- Build richer Three.js scenes with motion, lighting and interaction
+- Turn music theory ideas into useful learning interfaces
+- Keep designing personal tools around memory, creativity and learning
 
 ---
 
