@@ -4,12 +4,12 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;GameMemory+Builder;Three.js+Visual+Experimenter;Music-Tech+Interface+Maker;Learning+by+Shipping+Small+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;GameMemory+Builder;ChordPilot+Music-Tech+Maker;String+Blade+Game+Builder;Learning+by+Shipping+Small+Tools)](https://git.io/typing-svg)
 
 <p>Building personal tools where code, games, music and memory meet.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
-![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20Supabase%20%2B%20Three.js-667eea?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20FastAPI%20%2B%20Music--Tech-667eea?style=flat-square)
 ![Mood](https://img.shields.io/badge/Mood-Code%20%2B%20Music%20%2B%20Memory-764ba2?style=flat-square)
 
 </div>
@@ -19,15 +19,17 @@
 ## 🧭 About Me
 
 - 🎓 Electronic Information Science student exploring software, interaction and creative systems
-- 💻 Building full-stack projects with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **Django** and **REST APIs**
+- 💻 Building full-stack projects with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **FastAPI**, **Django** and **REST APIs**
 - 🎮 Developing **GameMemory**, a personal game archive for ratings, reviews, Steam imports and memory sharing
+- 🎸 Building **String Blade**, a browser guitar-chord combat game with TypeScript, Phaser, Web Audio and Web MIDI
+- 🎧 Creating **ChordPilot**, a local music-tech app for automatic chord timeline analysis
 - 🪐 Creating visual experiments with **Three.js**, particle motion, lighting and gesture interaction
 - 🎼 Designing small music-learning interfaces for guitar, piano, staff notation and theory
 - 🧠 Interested in tools that help people remember, learn and express ideas more clearly
 
 <div align="center">
 
-[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=GameMemory+features+and+polish;Vue+interfaces+with+real+data;Serverless+APIs+on+Netlify;Supabase-backed+personal+tools;Creative+coding+with+Three.js;Music+and+memory+as+software)](https://git.io/typing-svg)
+[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=Portfolio+site+polish;ChordPilot+audio+analysis+workflow;String+Blade+gameplay+loops;GameMemory+features+and+memory+sharing;Music-tech+tools+with+real+interaction)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,27 +43,27 @@
 
 ### Shipping
 
-- GameMemory search, rating and review flows
-- Cleaner UI states for personal tools
-- Small demos that are easy to open and understand
+- Portfolio site polish and project presentation
+- ChordPilot audio upload, analysis and export flows
+- String Blade guitar-chord combat and rhythm gameplay
 
 </td>
 <td width="33%" valign="top">
 
 ### Learning
 
-- Vue component architecture
-- Supabase-backed app patterns
-- Three.js scenes, particles and interaction
+- Vue component architecture and production UI polish
+- FastAPI audio analysis pipelines with librosa
+- Phaser game structure, Web Audio and Web MIDI input
 
 </td>
 <td width="33%" valign="top">
 
 ### Exploring
 
-- Music theory as interactive software
+- Music theory as playable software
 - Game memory and personal archives
-- Creative interfaces for learning and expression
+- Creative tools shaped by practice, emotion and learning
 
 </td>
 </tr>
@@ -78,13 +80,18 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Creative, Data & Embedded
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-2F75C0?style=for-the-badge)
+![Web Audio](https://img.shields.io/badge/Web%20Audio-FF6B6B?style=for-the-badge)
+![librosa](https://img.shields.io/badge/librosa-Audio%20Analysis-4B8BBE?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -105,13 +112,13 @@
 
 <div align="center">
 
-[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;Interactive+Particle+Saturn+%7C+visual+experiment;Music+Theory+Lab+%7C+learning+interface)](https://git.io/typing-svg)
+[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;Haoran+Fei+Portfolio+%7C+project+presentation;ChordPilot+%7C+automatic+chord+timeline;String+Blade+%7C+guitar+chord+combat)](https://git.io/typing-svg)
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎮 GameMemory
 
@@ -125,28 +132,41 @@ Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://1gamememory1.netlify.app)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🪐 Interactive Particle Saturn
+### 🧩 Haoran Fei Portfolio
 
-A cinematic Three.js experiment featuring a particle-based Saturn system.
+A personal portfolio site for presenting projects, learning direction and creative software work.
 
-Built with dynamic rings, gesture interaction, motion and lighting.
+Built as a polished front door for recent full-stack, music-tech and game projects.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/interactive-particle-saturn)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/interactive-particle-saturn/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/haoran-fei-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/haoran-fei-portfolio/)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎼 Music Theory Lab
+### 🎧 ChordPilot
 
-An interactive music learning project for CAGED system, piano keys, staff notation and beginner-friendly music theory.
+A local music-tech Web app that analyzes uploaded audio and generates a synchronized chord timeline.
 
-Built for learning, listening and visualizing music structure.
+Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional Demucs separation.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/fretboard-caged-lab)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/fretboard-caged-lab/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/ChordPilot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎸 String Blade
+
+A browser-based guitar chord combat game where chord input becomes attacks, guards, parries and rhythm actions.
+
+Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/String-Blade)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://stringblade.netlify.app)
 
 </td>
 </tr>
@@ -159,6 +179,8 @@ Built for learning, listening and visualizing music structure.
 - Ship more polished full-stack projects instead of only prototypes
 - Improve production deployment habits with Netlify, Supabase and GitHub workflows
 - Deepen game data integrations with RAWG, Steam Web API and SteamGridDB
+- Build music-tech tools that turn listening, chords and rhythm into interaction
+- Make small playable learning experiences with clear loops and useful feedback
 - Build richer Three.js scenes with motion, lighting and interaction
 - Turn music theory ideas into useful learning interfaces
 - Keep designing personal tools around memory, creativity and learning
@@ -243,6 +265,8 @@ Built for learning, listening and visualizing music structure.
 > Projects for memory.
 
 > “Code is not only logic. It is also a way to remember, express, and build gently.”
+
+> “Greatness comes from character and character isn’t formed out of smart people — it’s formed out of people who suffered.”
 
 ---
 
