@@ -71,6 +71,15 @@
 
 ---
 
+## ⚡ Recently Shipping
+
+- Polishing the portfolio as a clearer front door for full-stack, game and music-tech projects
+- Improving GameMemory around game discovery, memory notes, ratings and sharing flows
+- Turning ChordPilot analysis results into a cleaner chord timeline workflow
+- Prototyping String Blade gameplay loops around chord input, timing and feedback
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -122,6 +131,10 @@
 
 ### 🎮 GameMemory
 
+![Live](https://img.shields.io/badge/Live-Online-00c7b7?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full--stack-Vue%20%2B%20Supabase-4FC08D?style=flat-square)
+![Game Data](https://img.shields.io/badge/Game%20Data-RAWG%20%2B%20Steam-667eea?style=flat-square)
+
 A full-stack personal game archive for searching, importing, rating, tagging, reviewing and sharing game memories.
 
 Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and SteamGridDB.
@@ -135,6 +148,10 @@ Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and
 <td width="50%" valign="top">
 
 ### 🧩 Haoran Fei Portfolio
+
+![Live](https://img.shields.io/badge/Live-GitHub%20Pages-667eea?style=flat-square)
+![Portfolio](https://img.shields.io/badge/Portfolio-Project%20Showcase-764ba2?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-Vue%20%2B%20Vite-4FC08D?style=flat-square)
 
 A personal portfolio site for presenting projects, learning direction and creative software work.
 
@@ -150,6 +167,10 @@ Built as a polished front door for recent full-stack, music-tech and game projec
 
 ### 🎧 ChordPilot
 
+![Local App](https://img.shields.io/badge/Local%20App-In%20Progress-4B8BBE?style=flat-square)
+![Audio](https://img.shields.io/badge/Audio-librosa%20%2B%20FastAPI-009688?style=flat-square)
+![Music Tech](https://img.shields.io/badge/Music--tech-Chord%20Timeline-764ba2?style=flat-square)
+
 A local music-tech Web app that analyzes uploaded audio and generates a synchronized chord timeline.
 
 Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional Demucs separation.
@@ -160,6 +181,10 @@ Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional De
 <td width="50%" valign="top">
 
 ### 🎸 String Blade
+
+![Live](https://img.shields.io/badge/Live-Playable%20Demo-00c7b7?style=flat-square)
+![Game](https://img.shields.io/badge/Game-Phaser%20%2B%20TypeScript-2F75C0?style=flat-square)
+![Input](https://img.shields.io/badge/Input-Web%20Audio%20%2B%20MIDI-FF6B6B?style=flat-square)
 
 A browser-based guitar chord combat game where chord input becomes attacks, guards, parries and rhythm actions.
 
@@ -224,16 +249,6 @@ Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 
 ---
 
-## Profile View
-
-<div align="center">
-
-<img src="https://count.getloli.com/@1379475267-svg?name=1379475267-svg&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile View Counter" />
-
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -275,6 +290,7 @@ Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1379475267-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/haoran-fei-portfolio/)
 [![Email](https://img.shields.io/badge/Email-1379475267%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1379475267@qq.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/19876581)
 
