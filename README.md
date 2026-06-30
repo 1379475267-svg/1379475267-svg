@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Haoran Fei header" />
 
 # Hi, I'm Haoran Fei 👋
 
@@ -20,18 +20,10 @@
 
 - 🎓 Electronic Information Science student exploring software, interaction and creative systems
 - 💻 Building full-stack projects with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **FastAPI**, **Django** and **REST APIs**
-- 🎮 Developing **GameMemory**, a personal game archive for ratings, reviews, Steam imports and memory sharing
-- 🎸 Building **String Blade**, a browser guitar-chord combat game with TypeScript, Phaser, Web Audio and Web MIDI
-- 🎧 Creating **ChordPilot**, a local music-tech app for automatic chord timeline analysis
-- 🪐 Creating visual experiments with **Three.js**, particle motion, lighting and gesture interaction
-- 🎼 Designing small music-learning interfaces for guitar, piano, staff notation and theory
-- 🧠 Interested in tools that help people remember, learn and express ideas more clearly
-
-<div align="center">
-
-[![Now Building](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&center=true&vCenter=true&width=760&lines=Portfolio+site+polish;ChordPilot+audio+analysis+workflow;String+Blade+gameplay+loops;GameMemory+features+and+memory+sharing;Music-tech+tools+with+real+interaction)](https://git.io/typing-svg)
-
-</div>
+- 🎮 Designing tools around games, memories, ratings, notes and personal archives
+- 🎧 Making music-tech experiments for chord analysis, guitar practice and playable theory
+- 🪐 Creating visual experiments with **Three.js**, particle motion, lighting and interaction
+- 🧠 Interested in software that helps people remember, learn and express ideas more clearly
 
 ---
 
@@ -43,18 +35,18 @@
 
 ### Shipping
 
-- Portfolio site polish and project presentation
-- ChordPilot audio upload, analysis and export flows
-- String Blade guitar-chord combat and rhythm gameplay
+- **GameMemory**: game discovery, Steam imports, ratings and memory sharing
+- **ChordPilot**: audio upload, chord timeline analysis and export workflow
+- **String Blade**: chord combat loops, timing feedback and playable browser polish
 
 </td>
 <td width="33%" valign="top">
 
 ### Learning
 
-- Vue component architecture and production UI polish
-- FastAPI audio analysis pipelines with librosa
-- Phaser game structure, Web Audio and Web MIDI input
+- Production-ready Vue component architecture
+- FastAPI audio pipelines with librosa, NumPy and SciPy
+- Phaser structure, Web Audio input and Web MIDI interaction
 
 </td>
 <td width="33%" valign="top">
@@ -62,21 +54,12 @@
 ### Exploring
 
 - Music theory as playable software
-- Game memory and personal archives
+- Personal archives for game memories
 - Creative tools shaped by practice, emotion and learning
 
 </td>
 </tr>
 </table>
-
----
-
-## ⚡ Recently Shipping
-
-- Polishing the portfolio as a clearer front door for full-stack, game and music-tech projects
-- Improving GameMemory around game discovery, memory notes, ratings and sharing flows
-- Turning ChordPilot analysis results into a cleaner chord timeline workflow
-- Prototyping String Blade gameplay loops around chord input, timing and feedback
 
 ---
 
@@ -100,11 +83,11 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-2F75C0?style=for-the-badge)
 ![Web Audio](https://img.shields.io/badge/Web%20Audio-FF6B6B?style=for-the-badge)
+![Web MIDI](https://img.shields.io/badge/Web%20MIDI-7C3AED?style=for-the-badge)
 ![librosa](https://img.shields.io/badge/librosa-Audio%20Analysis-4B8BBE?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
 
 ### Tools
 
@@ -147,18 +130,20 @@ Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Haoran Fei Portfolio
+### 🎸 String Blade
 
-![Live](https://img.shields.io/badge/Live-GitHub%20Pages-667eea?style=flat-square)
-![Portfolio](https://img.shields.io/badge/Portfolio-Project%20Showcase-764ba2?style=flat-square)
-![Frontend](https://img.shields.io/badge/Frontend-Vue%20%2B%20Vite-4FC08D?style=flat-square)
+![Live](https://img.shields.io/badge/Live-Playable%20Demo-00c7b7?style=flat-square)
+![Game](https://img.shields.io/badge/Game-Phaser%20%2B%20TypeScript-2F75C0?style=flat-square)
+![Input](https://img.shields.io/badge/Input-Web%20Audio%20%2B%20MIDI-FF6B6B?style=flat-square)
 
-A personal portfolio site for presenting projects, learning direction and creative software work.
+A browser-based guitar chord combat game where chord input becomes attacks, guards, parries and rhythm actions.
 
-Built as a polished front door for recent full-stack, music-tech and game projects.
+Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/haoran-fei-portfolio)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/haoran-fei-portfolio/)
+> Turning music practice into a readable, reactive game loop.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/String-Blade)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://stringblade.netlify.app)
 
 </td>
 </tr>
@@ -175,23 +160,27 @@ A local music-tech Web app that analyzes uploaded audio and generates a synchron
 
 Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional Demucs separation.
 
+> Helping a song become something visible, navigable and learnable.
+
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/ChordPilot)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎸 String Blade
+### 🧩 Haoran Fei Portfolio
 
-![Live](https://img.shields.io/badge/Live-Playable%20Demo-00c7b7?style=flat-square)
-![Game](https://img.shields.io/badge/Game-Phaser%20%2B%20TypeScript-2F75C0?style=flat-square)
-![Input](https://img.shields.io/badge/Input-Web%20Audio%20%2B%20MIDI-FF6B6B?style=flat-square)
+![Live](https://img.shields.io/badge/Live-GitHub%20Pages-667eea?style=flat-square)
+![Portfolio](https://img.shields.io/badge/Portfolio-Project%20Showcase-764ba2?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-Vue%20%2B%20Vite-4FC08D?style=flat-square)
 
-A browser-based guitar chord combat game where chord input becomes attacks, guards, parries and rhythm actions.
+A personal portfolio site for presenting projects, learning direction and creative software work.
 
-Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
+Built as a polished front door for recent full-stack, music-tech and game projects.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/String-Blade)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00c7b7?style=flat-square&logo=netlify&logoColor=white)](https://stringblade.netlify.app)
+> A clearer map of what I am building and why.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/haoran-fei-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/haoran-fei-portfolio/)
 
 </td>
 </tr>
@@ -199,16 +188,51 @@ Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 
 ---
 
-## 📌 2026 Direction
+## 🧪 Creative Labs
 
-- Ship more polished full-stack projects instead of only prototypes
-- Improve production deployment habits with Netlify, Supabase and GitHub workflows
-- Deepen game data integrations with RAWG, Steam Web API and SteamGridDB
-- Build music-tech tools that turn listening, chords and rhythm into interaction
-- Make small playable learning experiences with clear loops and useful feedback
-- Build richer Three.js scenes with motion, lighting and interaction
-- Turn music theory ideas into useful learning interfaces
-- Keep designing personal tools around memory, creativity and learning
+Smaller experiments that feed the bigger projects.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🪐 Particle Saturn
+
+Interactive Three.js particle scenes with orbital motion, lighting and real-time visual transitions.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/interactive-particle-saturn)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎼 Fretboard CAGED Lab
+
+A guitar-learning interface for exploring CAGED shapes, fretboard notes and visual music theory.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/fretboard-caged-lab)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎣 Smart Fishing Alert
+
+An STM32-based fishing bite detection and alert project, connecting embedded sensing with practical interaction.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/smart-fishing-alert)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 2026 Shipping Goals
+
+- Ship **GameMemory v1** with stronger Steam import, notes, ratings and sharing flows
+- Release a more playable **String Blade** demo with chord input, timing feedback and clear game loops
+- Polish **ChordPilot** into a smoother audio-to-chord-timeline workflow
+- Keep improving the portfolio as a front door for full-stack, game and music-tech work
+- Build small music-learning interfaces that make theory feel visible and playable
 
 ---
 
@@ -281,8 +305,6 @@ Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 
 > “Code is not only logic. It is also a way to remember, express, and build gently.”
 
-> “Greatness comes from character and character isn’t formed out of smart people — it’s formed out of people who suffered.”
-
 ---
 
 ## 🔗 Socials
@@ -300,6 +322,6 @@ Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="footer wave" />
 
 </div>
