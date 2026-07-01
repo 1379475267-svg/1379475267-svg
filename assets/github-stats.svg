@@ -1,0 +1,49 @@
+<svg width="420" height="195" viewBox="0 0 420 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Haoran Fei GitHub Snapshot</title>
+  <desc id="desc">A dark GitHub profile statistics card showing public repositories, stars, followers and current building focus.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="420" y2="195" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.55" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="40" y1="20" x2="390" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#8b5cf6" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="419" height="194" rx="8" fill="#0d1117" stroke="url(#border)"/>
+  <rect x="18" y="16" width="384" height="163" rx="8" fill="url(#glow)"/>
+
+  <text x="28" y="42" fill="#38bdf8" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">GitHub Snapshot</text>
+  <text x="28" y="65" fill="#a1a1aa" font-family="Segoe UI, Arial, sans-serif" font-size="12">Public profile stats refreshed July 2026</text>
+
+  <g transform="translate(28 88)">
+    <rect width="78" height="62" rx="7" fill="#111827" stroke="#30363d"/>
+    <text x="39" y="27" fill="#e5e7eb" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">11</text>
+    <text x="39" y="47" fill="#a1a1aa" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11">Repos</text>
+  </g>
+
+  <g transform="translate(122 88)">
+    <rect width="78" height="62" rx="7" fill="#111827" stroke="#30363d"/>
+    <text x="39" y="27" fill="#e5e7eb" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">18</text>
+    <text x="39" y="47" fill="#a1a1aa" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11">Stars</text>
+  </g>
+
+  <g transform="translate(216 88)">
+    <rect width="78" height="62" rx="7" fill="#111827" stroke="#30363d"/>
+    <text x="39" y="27" fill="#e5e7eb" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">90</text>
+    <text x="39" y="47" fill="#a1a1aa" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11">Followers</text>
+  </g>
+
+  <g transform="translate(310 88)">
+    <rect width="78" height="62" rx="7" fill="#111827" stroke="#30363d"/>
+    <text x="39" y="27" fill="#e5e7eb" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">3</text>
+    <text x="39" y="47" fill="#a1a1aa" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11">Core Builds</text>
+  </g>
+
+  <circle cx="30" cy="170" r="4" fill="#22d3ee"/>
+  <text x="42" y="174" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="12">Building: GameMemory, String Blade, ChordPilot</text>
+</svg>

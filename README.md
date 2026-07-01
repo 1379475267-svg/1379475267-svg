@@ -280,8 +280,8 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=1379475267-svg&show_icons=true&hide_border=false&border_color=ffffff&title_color=38bdf8&text_color=e5e7eb&icon_color=22d3ee&bg_color=0d1117&rank_icon=github"
-    alt="My GitHub Statistics"
+    src="./assets/github-stats.svg"
+    alt="Haoran Fei GitHub snapshot"
   />
   <img
     width="49%"
