@@ -9,6 +9,8 @@
 <p>Building small, expressive software where code, games, music and memory meet.</p>
 
 <p>
+  <img src="./assets/profile-views-motion.svg" alt="Animated profile views banner" />
+  <br />
   <img
     src="https://count.getloli.com/@1379475267-svg?name=1379475267-svg&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="Profile views"

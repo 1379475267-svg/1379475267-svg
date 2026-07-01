@@ -1,0 +1,50 @@
+<svg width="520" height="92" viewBox="0 0 520 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Profile Views Header</title>
+  <desc id="desc">An animated anime-inspired profile views header with glowing text and floating sparkles.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="520" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#15102a"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="-120" y1="0" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f9a8d4" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-120 0;640 0;-120 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-35%" width="140%" height="170%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.56 0 0 0 0 0.36 0 0 0 0 0.96 0 0 0 0.55 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="518" height="90" rx="10" fill="url(#card)" stroke="#8b5cf6" stroke-opacity="0.7"/>
+  <rect x="12" y="12" width="496" height="68" rx="8" fill="url(#shine)" opacity="0.55"/>
+
+  <g filter="url(#softGlow)">
+    <text x="260" y="42" fill="#f8fafc" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">PROFILE VIEWS</text>
+    <text x="260" y="65" fill="#c4b5fd" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">thanks for visiting my little build corner</text>
+  </g>
+
+  <g fill="#f9a8d4">
+    <path d="M50 25L54 34L63 38L54 42L50 51L46 42L37 38L46 34L50 25Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M462 20L465 27L472 30L465 33L462 40L459 33L452 30L459 27L462 20Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.85">
+    <path d="M96 70C130 56 158 56 190 70">
+      <animate attributeName="stroke-dasharray" values="1 220;80 220;1 220" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M330 70C362 56 392 56 424 70">
+      <animate attributeName="stroke-dasharray" values="1 220;80 220;1 220" dur="3s" begin="0.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
