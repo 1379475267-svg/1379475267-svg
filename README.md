@@ -4,13 +4,14 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Learner;GameMemory+Builder;ChordPilot+Music-Tech+Maker;String+Blade+Game+Builder;Learning+by+Shipping+Small+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Builder;Shipping+GameMemory+and+String+Blade;Exploring+Music-Tech+with+ChordPilot;Learning+by+turning+ideas+into+tools)](https://git.io/typing-svg)
 
-<p>Building personal tools where code, games, music and memory meet.</p>
+<p>Building small, expressive software where code, games, music and memory meet.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
-![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20FastAPI%20%2B%20Music--Tech-667eea?style=flat-square)
-![Mood](https://img.shields.io/badge/Mood-Code%20%2B%20Music%20%2B%20Memory-764ba2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20FastAPI%20%2B%20Creative%20Tools-667eea?style=flat-square)
+![Now](https://img.shields.io/badge/Now-Shipping%20and%20Polishing-00c7b7?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-July%202026-764ba2?style=flat-square)
 
 </div>
 
@@ -19,11 +20,11 @@
 ## 🧭 About Me
 
 - 🎓 Electronic Information Science student exploring software, interaction and creative systems
-- 💻 Building full-stack projects with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **FastAPI**, **Django** and **REST APIs**
-- 🎮 Designing tools around games, memories, ratings, notes and personal archives
-- 🎧 Making music-tech experiments for chord analysis, guitar practice and playable theory
-- 🪐 Creating visual experiments with **Three.js**, particle motion, lighting and interaction
-- 🧠 Interested in software that helps people remember, learn and express ideas more clearly
+- 💻 Building full-stack tools with **Vue**, **Vite**, **Netlify Functions**, **Supabase**, **FastAPI**, **Django** and **REST APIs**
+- 🎮 Designing game-adjacent products for discovery, ratings, memories and personal archives
+- 🎧 Experimenting with music-tech for chord timelines, guitar practice and playable theory
+- 🪐 Creating visual interfaces with **Three.js**, motion, lighting and interaction
+- 🧠 Interested in software that makes learning, memory and expression feel more tangible
 
 ---
 
@@ -36,8 +37,8 @@
 ### Shipping
 
 - **GameMemory**: game discovery, Steam imports, ratings and memory sharing
-- **ChordPilot**: audio upload, chord timeline analysis and export workflow
-- **String Blade**: chord combat loops, timing feedback and playable browser polish
+- **String Blade**: guitar chord combat loops, timing feedback and playable browser polish
+- **Portfolio**: a clearer front door for projects, demos and learning direction
 
 </td>
 <td width="33%" valign="top">
@@ -55,7 +56,7 @@
 
 - Music theory as playable software
 - Personal archives for game memories
-- Creative tools shaped by practice, emotion and learning
+- Creative tools shaped by practice, emotion and memory
 
 </td>
 </tr>
@@ -104,7 +105,7 @@
 
 <div align="center">
 
-[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;Haoran+Fei+Portfolio+%7C+project+presentation;ChordPilot+%7C+automatic+chord+timeline;String+Blade+%7C+guitar+chord+combat)](https://git.io/typing-svg)
+[![Project Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=900&center=true&vCenter=true&width=760&lines=GameMemory+%7C+full-stack+game+archive;String+Blade+%7C+guitar+chord+combat;ChordPilot+%7C+automatic+chord+timeline;Portfolio+%7C+project+presentation)](https://git.io/typing-svg)
 
 </div>
 
@@ -121,6 +122,8 @@
 A full-stack personal game archive for searching, importing, rating, tagging, reviewing and sharing game memories.
 
 Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and SteamGridDB.
+
+**Current direction:** polishing the core collection flow, Steam-powered imports and memory-first review experience.
 
 > Recording not only what I played, but also how each game felt.
 
@@ -139,6 +142,8 @@ Built with Vue 3, Vite, Netlify Functions, Supabase, RAWG API, Steam Web API and
 A browser-based guitar chord combat game where chord input becomes attacks, guards, parries and rhythm actions.
 
 Built with Vite, TypeScript, Phaser, Web Audio API and Web MIDI.
+
+**Current direction:** improving chord readability, input feedback and a tighter playable loop.
 
 > Turning music practice into a readable, reactive game loop.
 
@@ -160,6 +165,8 @@ A local music-tech Web app that analyzes uploaded audio and generates a synchron
 
 Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional Demucs separation.
 
+**Current direction:** making audio analysis results easier to inspect, adjust and export.
+
 > Helping a song become something visible, navigable and learnable.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/ChordPilot)
@@ -176,6 +183,8 @@ Built with Vue 3, Vite, PrimeVue, FastAPI, librosa, NumPy, SciPy and optional De
 A personal portfolio site for presenting projects, learning direction and creative software work.
 
 Built as a polished front door for recent full-stack, music-tech and game projects.
+
+**Current direction:** keeping demos, project stories and learning notes aligned with what I am actually shipping.
 
 > A clearer map of what I am building and why.
 
@@ -226,13 +235,43 @@ An STM32-based fishing bite detection and alert project, connecting embedded sen
 
 ---
 
-## 📌 2026 Shipping Goals
+## 📌 2026 Roadmap
 
-- Ship **GameMemory v1** with stronger Steam import, notes, ratings and sharing flows
-- Release a more playable **String Blade** demo with chord input, timing feedback and clear game loops
+- Ship **GameMemory v1** with stronger Steam imports, notes, ratings and sharing flows
+- Release a more readable **String Blade** demo with chord input, timing feedback and clear combat rules
 - Polish **ChordPilot** into a smoother audio-to-chord-timeline workflow
 - Keep improving the portfolio as a front door for full-stack, game and music-tech work
 - Build small music-learning interfaces that make theory feel visible and playable
+
+---
+
+## 🧭 How I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Start Small
+
+Turn one clear idea into a working prototype, then let real use expose what matters.
+
+</td>
+<td width="33%" valign="top">
+
+### Make It Feelable
+
+Use visuals, motion, sound and interaction to make abstract systems easier to understand.
+
+</td>
+<td width="33%" valign="top">
+
+### Ship Often
+
+Prefer finished small tools over perfect unfinished plans, then polish from feedback.
+
+</td>
+</tr>
+</table>
 
 ---
 
