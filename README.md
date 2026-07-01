@@ -8,7 +8,8 @@
 
 <p>Building small, expressive software where code, games, music and memory meet.</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=1379475267-svg&style=for-the-badge&label=Profile%20Views&color=blueviolet)
+
 ![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20FastAPI%20%2B%20Creative%20Tools-667eea?style=flat-square)
 ![Now](https://img.shields.io/badge/Now-Shipping%20and%20Polishing-00c7b7?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-July%202026-764ba2?style=flat-square)
