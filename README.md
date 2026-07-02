@@ -320,7 +320,7 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
