@@ -9,6 +9,8 @@
 <p>Building expressive software where full-stack systems, games, music learning and personal memory meet.</p>
 
 <p>
+  <img src="./assets/profile-views-motion.svg" alt="Animated profile views banner" />
+  <br />
   <img
     src="https://count.getloli.com/@1379475267-svg?name=1379475267-svg&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="Profile views"
@@ -334,48 +336,38 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img
+    width="49%"
+    src="./assets/github-stats.svg"
+    alt="Haoran Fei GitHub snapshot"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=1379475267-svg&theme=dark&hide_border=false&border=ffffff&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=A1A1AA"
+    alt="GitHub Streak"
+  />
+</div>
 
-### Snapshot
+<br />
 
-| Repos | Stars | Followers | Core Builds |
-| ---: | ---: | ---: | ---: |
-| 11 | 19 | 91 | 3 |
-
-Current building line: **GameMemory**, **String Blade**, **ChordPilot** and a cleaner **Portfolio** front door.
-
-</td>
-<td width="50%" valign="top">
-
-### Language Mix
-
-| Language | Share |
-| --- | ---: |
-| JavaScript | 43.0% |
-| CSS | 23.8% |
-| TypeScript | 15.6% |
-| Vue | 7.3% |
-| Python | 7.1% |
-| HTML | 3.1% |
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img
+    width="65%"
+    src="./assets/github-languages.svg"
+    alt="My Programming Languages"
+  />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td align="center" width="25%"><strong>Explorer</strong><br />Creative coding and visual systems</td>
-<td align="center" width="25%"><strong>Builder</strong><br />Full-stack apps and playable tools</td>
-<td align="center" width="25%"><strong>Learner</strong><br />Python, audio and data practice</td>
-<td align="center" width="25%"><strong>Shipper</strong><br />Small demos polished into public work</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="./assets/github-trophies.svg" alt="GitHub trophies" />
+
+</div>
 
 ---
 
@@ -389,16 +381,17 @@ Current building line: **GameMemory**, **String Blade**, **ChordPilot** and a cl
 
 ---
 
-## 🧵 Contribution Rhythm
+## 🐍 Contribution Snake
 
-I use GitHub as a public learning trail: prototypes, practice repos, project polish and small releases all live here.
+<div align="center">
 
-| Pattern | What it means |
-| --- | --- |
-| Prototype quickly | Get the first playable or usable version working |
-| Polish visibly | Improve the interface, copy, data flow and deployment |
-| Practice deliberately | Turn Python, data and music-tech learning into small tools |
-| Archive clearly | Keep project READMEs and profile notes aligned with current work |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
