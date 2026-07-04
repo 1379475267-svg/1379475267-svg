@@ -4,9 +4,9 @@
 
 # Hi, I'm Haoran Fei 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Builder;Shipping+GameMemory+and+String+Blade;Exploring+Music-Tech+with+ChordPilot;Learning+by+turning+ideas+into+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=Full-stack+%26+Creative+Coding+Builder;Shipping+GameMemory%2C+String+Blade+and+Portfolio;Building+music-tech+with+ChordPilot;Practicing+Python+through+quiz+tools)](https://git.io/typing-svg)
 
-<p>Building small, expressive software where code, games, music and memory meet.</p>
+<p>Building expressive software where full-stack systems, games, music learning and personal memory meet.</p>
 
 <p>
   <img src="./assets/profile-views-motion.svg" alt="Animated profile views banner" />
@@ -18,7 +18,7 @@
 </p>
 
 ![Focus](https://img.shields.io/badge/Focus-Vue%20%2B%20FastAPI%20%2B%20Creative%20Tools-667eea?style=flat-square)
-![Now](https://img.shields.io/badge/Now-Shipping%20and%20Polishing-00c7b7?style=flat-square)
+![Now](https://img.shields.io/badge/Now-Shipping%2C%20Polishing%20and%20Practicing-00c7b7?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-July%202026-764ba2?style=flat-square)
 
 </div>
@@ -32,6 +32,7 @@
 - 🎮 Designing game-adjacent products for discovery, ratings, memories and personal archives
 - 🎧 Experimenting with music-tech for chord timelines, guitar practice and playable theory
 - 🪐 Creating visual interfaces with **Three.js**, motion, lighting and interaction
+- 🧪 Turning Python and data-analysis practice into small quiz tools that are easy to revisit
 - 🧠 Interested in software that makes learning, memory and expression feel more tangible
 
 ---
@@ -47,6 +48,7 @@
 - **GameMemory**: game discovery, Steam imports, ratings and memory sharing
 - **String Blade**: guitar chord combat loops, timing feedback and playable browser polish
 - **Portfolio**: a clearer front door for projects, demos and learning direction
+- **Python quiz tools**: lightweight practice apps for reviewing language basics and data-analysis concepts
 
 </td>
 <td width="33%" valign="top">
@@ -56,6 +58,7 @@
 - Production-ready Vue component architecture
 - FastAPI audio pipelines with librosa, NumPy and SciPy
 - Phaser structure, Web Audio input and Web MIDI interaction
+- Small learning products with focused UX and repeatable practice loops
 
 </td>
 <td width="33%" valign="top">
@@ -65,6 +68,7 @@
 - Music theory as playable software
 - Personal archives for game memories
 - Creative tools shaped by practice, emotion and memory
+- Study interfaces that make review feel lighter and more visual
 
 </td>
 </tr>
@@ -198,6 +202,53 @@ Built as a polished front door for recent full-stack, music-tech and game projec
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/haoran-fei-portfolio)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=githubpages&logoColor=white)](https://1379475267-svg.github.io/haoran-fei-portfolio/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Recent Builds
+
+Small, focused projects from recent practice and experiments.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Python Practice Quiz
+
+![Practice](https://img.shields.io/badge/Practice-Python%20Basics-3776AB?style=flat-square&logo=python&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+A lightweight quiz project for reviewing Python fundamentals through repeatable questions and quick feedback.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/python-practice-quiz)
+
+</td>
+<td width="33%" valign="top">
+
+### Python Data Analysis Quiz
+
+![Practice](https://img.shields.io/badge/Practice-Data%20Analysis-4B8BBE?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+A study helper for revisiting data-analysis concepts, Python workflows and practical review questions.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/python-data-analysis-quiz)
+
+</td>
+<td width="33%" valign="top">
+
+### Living Saturn
+
+![Creative Coding](https://img.shields.io/badge/Creative%20Coding-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Experiment](https://img.shields.io/badge/Experiment-Visual%20Motion-764ba2?style=flat-square)
+
+A visual coding experiment connected to the same particle, orbital-motion and interactive-lighting direction as Particle Saturn.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1379475267-svg/living-saturn)
 
 </td>
 </tr>
