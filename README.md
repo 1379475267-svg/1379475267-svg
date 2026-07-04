@@ -354,7 +354,7 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 <div align="center">
   <img
     width="65%"
-    src="./assets/github-languages.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1379475267-svg&layout=compact&hide_border=false&border_color=ffffff&title_color=ffffff&text_color=e5e7eb&bg_color=0d1117&langs_count=8"
     alt="My Programming Languages"
   />
 </div>
