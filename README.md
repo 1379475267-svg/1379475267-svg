@@ -9,7 +9,7 @@
 <p>Building small, expressive software where code, games, music and memory meet.</p>
 
 <p>
-  <img src="./assets/profile-views-motion.svg" alt="Animated profile views banner" />
+  <img src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@main/assets/profile-views-motion.svg" alt="Animated profile views banner" />
   <br />
   <img
     src="https://count.getloli.com/@1379475267-svg?name=1379475267-svg&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
@@ -288,12 +288,12 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 <div align="center">
   <img
     width="49%"
-    src="./assets/github-stats.svg"
+    src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@main/assets/github-stats.svg"
     alt="Haoran Fei GitHub snapshot"
   />
   <img
     width="49%"
-    src="https://streak-stats.demolab.com?user=1379475267-svg&theme=dark&hide_border=false&border=ffffff&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=A1A1AA"
+    src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@main/assets/github-streak.svg"
     alt="GitHub Streak"
   />
 </div>
@@ -303,10 +303,28 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 <div align="center">
   <img
     width="65%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1379475267-svg&layout=compact&hide_border=false&border_color=ffffff&title_color=ffffff&text_color=e5e7eb&bg_color=0d1117&langs_count=8"
+    src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@main/assets/top-langs.svg"
     alt="My Programming Languages"
   />
 </div>
+
+<details>
+<summary>Live dynamic cards</summary>
+
+<div align="center">
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=1379475267-svg&theme=dark&hide_border=false&border=ffffff&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=A1A1AA"
+    alt="Live GitHub Streak"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1379475267-svg&layout=compact&hide_border=false&border_color=ffffff&title_color=e5e7eb&text_color=e5e7eb&bg_color=0d1117&langs_count=8"
+    alt="Live programming languages"
+  />
+</div>
+
+</details>
 
 ---
 
@@ -314,7 +332,7 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 
 <div align="center">
 
-<img src="./assets/github-trophies.svg" alt="GitHub trophies" />
+<img src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@main/assets/github-trophies.svg" alt="GitHub trophies" />
 
 </div>
 
@@ -335,9 +353,9 @@ Prefer finished small tools over perfect unfinished plans, then polish from feed
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1379475267-svg/1379475267-svg/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>

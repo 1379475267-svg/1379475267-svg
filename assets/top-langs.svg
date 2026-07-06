@@ -1,0 +1,38 @@
+<svg width="520" height="190" viewBox="0 0 520 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Programming Languages Snapshot</title>
+  <desc id="desc">A dark themed fallback programming languages card for Haoran Fei's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="520" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="519" height="189" rx="8" fill="#0d1117" stroke="url(#border)"/>
+  <text x="26" y="37" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Programming Languages</text>
+  <text x="26" y="60" fill="#a1a1aa" font-family="Segoe UI, Arial, sans-serif" font-size="12">Stable fallback view for the dynamic top-languages card</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12">
+    <text x="28" y="94" fill="#e5e7eb" font-weight="700">JavaScript</text>
+    <rect x="120" y="83" width="340" height="13" rx="6.5" fill="#1f2937"/>
+    <rect x="120" y="83" width="146" height="13" rx="6.5" fill="#f7df1e"/>
+    <text x="474" y="94" fill="#a1a1aa" text-anchor="end">43.0%</text>
+
+    <text x="28" y="116" fill="#e5e7eb" font-weight="700">CSS</text>
+    <rect x="120" y="105" width="340" height="13" rx="6.5" fill="#1f2937"/>
+    <rect x="120" y="105" width="81" height="13" rx="6.5" fill="#38bdf8"/>
+    <text x="474" y="116" fill="#a1a1aa" text-anchor="end">23.8%</text>
+
+    <text x="28" y="138" fill="#e5e7eb" font-weight="700">TypeScript</text>
+    <rect x="120" y="127" width="340" height="13" rx="6.5" fill="#1f2937"/>
+    <rect x="120" y="127" width="53" height="13" rx="6.5" fill="#3178c6"/>
+    <text x="474" y="138" fill="#a1a1aa" text-anchor="end">15.6%</text>
+
+    <text x="28" y="160" fill="#e5e7eb" font-weight="700">Vue / Python</text>
+    <rect x="120" y="149" width="340" height="13" rx="6.5" fill="#1f2937"/>
+    <rect x="120" y="149" width="25" height="13" rx="6.5" fill="#4fc08d"/>
+    <rect x="149" y="149" width="24" height="13" rx="6.5" fill="#3776ab"/>
+    <text x="474" y="160" fill="#a1a1aa" text-anchor="end">14.4%</text>
+  </g>
+</svg>
