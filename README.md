@@ -8,7 +8,7 @@
 
 ROS · PX4 · STM32 · TypeScript · Vue · FastAPI · Web Audio
 
-[Portfolio](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [Email](mailto:1379475267@qq.com) · [Bilibili](https://space.bilibili.com/19876581)
+[Portfolio · Global](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [Portfolio · China / 阿里云](http://47.109.136.234/) · [Email](mailto:1379475267@qq.com) · [Bilibili](https://space.bilibili.com/19876581)
 
 </div>
 
@@ -69,7 +69,7 @@ I preserve a recoverable baseline, test changes in layers, and document why each
 
 ## More Projects
 
-- [Portfolio](https://1379475267-svg.github.io/haoran-fei-portfolio/) — visual index of projects and experiments
+- Portfolio — [Global / GitHub Pages](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [China / 阿里云](http://47.109.136.234/)
 - [All repositories](https://github.com/1379475267-svg?tab=repositories)
 
 ## Contribution Activity
