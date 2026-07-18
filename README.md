@@ -27,7 +27,7 @@ ROS · PX4 · STM32 · TypeScript · Vue · FastAPI · Web Audio
 | [GameMemory](https://github.com/1379475267-svg/GameMemory) | A full-stack personal game archive for importing, rating, tagging, reviewing, and sharing game memories. [Live demo](https://1gamememory1.netlify.app) | Vue, Supabase, Netlify Functions |
 | [Fret & Key Theory Lab](https://github.com/1379475267-svg/fretboard-caged-lab) | A bilingual interactive guitar, piano, and music-theory visualizer. [Live demo](https://1379475267-svg.github.io/fretboard-caged-lab/) | JavaScript, HTML, CSS |
 | [Interactive Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) | A gesture-driven Three.js particle system with orbital motion and cinematic transitions. [Live demo](https://1379475267-svg.github.io/interactive-particle-saturn/) | Three.js, JavaScript, MediaPipe |
-| [Smart Fishing Alert](https://github.com/1379475267-svg/smart-fishing-alert) | An STM32-based sensing and bite-alert experiment. | STM32, C, embedded systems |
+| [ChordPilot](https://github.com/1379475267-svg/ChordPilot) | A local music-tech app that turns uploaded audio into a synchronized chord timeline. | Vue, FastAPI, librosa |
 
 ## What I Work With
 
@@ -42,7 +42,6 @@ I preserve a recoverable baseline, test changes in layers, and document why each
 
 ## More Projects
 
-- [ChordPilot](https://github.com/1379475267-svg/ChordPilot) — synchronized chord-timeline analysis for uploaded audio
 - [Portfolio](https://1379475267-svg.github.io/haoran-fei-portfolio/) — visual index of projects and experiments
 - [All repositories](https://github.com/1379475267-svg?tab=repositories)
 
