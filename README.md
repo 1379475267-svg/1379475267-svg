@@ -23,11 +23,11 @@ ROS · PX4 · STM32 · TypeScript · Vue · FastAPI · Web Audio
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Nonconvex-α Standard Drone](https://github.com/1379475267-svg/nonconvex-alpha-standard) | A recoverable source snapshot and team workflow for secondary development of an educational research drone. | ROS 1, PX4, C++, Livox, Faster-LIO |
-| [String Blade](https://github.com/1379475267-svg/String-Blade) | A browser guitar-chord combat game using microphone, MIDI, and manual chord input. [Global](https://stringblade.netlify.app) · [中国大陆](http://47.109.136.234/projects/string-blade/) | TypeScript, Phaser, Web Audio, Web MIDI |
-| [GameMemory](https://github.com/1379475267-svg/GameMemory) | A full-stack personal game archive for importing, rating, tagging, reviewing, and sharing game memories. [Global](https://1gamememory1.netlify.app) · [中国大陆](http://47.109.136.234/projects/gamememory/) | Vue, Supabase, Netlify Functions |
-| [Fret & Key Theory Lab](https://github.com/1379475267-svg/fretboard-caged-lab) | A bilingual interactive guitar, piano, and music-theory visualizer. [Global](https://1379475267-svg.github.io/fretboard-caged-lab/) · [中国大陆](http://47.109.136.234/projects/fretboard/) | JavaScript, HTML, CSS |
-| [Interactive Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) | A gesture-driven Three.js particle system with orbital motion and cinematic transitions. [Global](https://1379475267-svg.github.io/interactive-particle-saturn/) | Three.js, JavaScript, MediaPipe |
-| [ChordPilot](https://github.com/1379475267-svg/ChordPilot) | A music-tech app that turns uploaded audio into a synchronized chord timeline. [中国大陆](http://47.109.136.234/projects/chordpilot/) | Vue, FastAPI, librosa |
+| [String Blade](https://github.com/1379475267-svg/String-Blade) | A browser guitar-chord combat game using microphone, MIDI, and manual chord input. [在线体验 · Global](https://stringblade.netlify.app) · [在线体验 · 中国大陆](http://47.109.136.234/projects/string-blade/) | TypeScript, Phaser, Web Audio, Web MIDI |
+| [GameMemory](https://github.com/1379475267-svg/GameMemory) | A full-stack personal game archive for importing, rating, tagging, reviewing, and sharing game memories. [在线体验 · Global](https://1gamememory1.netlify.app) · [在线体验 · 中国大陆](http://47.109.136.234/projects/gamememory/) | Vue, Supabase, Netlify Functions |
+| [Fret & Key Theory Lab](https://github.com/1379475267-svg/fretboard-caged-lab) | A bilingual interactive guitar, piano, and music-theory visualizer. [在线体验 · Global](https://1379475267-svg.github.io/fretboard-caged-lab/) · [在线体验 · 中国大陆](http://47.109.136.234/projects/fretboard/) | JavaScript, HTML, CSS |
+| [Interactive Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) | A gesture-driven Three.js particle system with orbital motion and cinematic transitions. [在线体验 · Global](https://1379475267-svg.github.io/interactive-particle-saturn/) · 中国大陆体验：暂未部署 | Three.js, JavaScript, MediaPipe |
+| [ChordPilot](https://github.com/1379475267-svg/ChordPilot) | A music-tech app that turns uploaded audio into a synchronized chord timeline. Global 体验：暂未部署 · [在线体验 · 中国大陆](http://47.109.136.234/projects/chordpilot/) | Vue, FastAPI, librosa |
 
 ## Skills & Tools
 
