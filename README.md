@@ -1,91 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/nonconvex-flight-banner.webp" width="100%" alt="Nonconvex-alpha drone indoor navigation demo" />
+  <br />
+  <sub>Indoor navigation demo from the Nonconvex-α educational research drone project.</sub>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=170&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Haoran Fei header" />
+<h1 align="center">Haoran Fei</h1>
 
-# Hi, I'm Haoran Fei 👋
+<p align="center">
+  <strong>Electronic Information Science student building autonomous systems, embedded devices, and creative software.</strong>
+  <br />
+  <sub>ROS 1 / PX4 / STM32 / TypeScript / Vue / FastAPI / Web Audio</sub>
+</p>
 
-**Electronic Information Science student building autonomous systems, embedded devices, and creative software.**
+<p align="center">
+  <a href="https://1379475267-svg.github.io/haoran-fei-portfolio/"><strong>Portfolio - Global</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://fhrzz.me/"><strong>Portfolio - China</strong></a>
+  &nbsp;/&nbsp;
+  <a href="mailto:1379475267@qq.com">Email</a>
+  &nbsp;/&nbsp;
+  <a href="https://space.bilibili.com/19876581">Bilibili</a>
+</p>
 
-ROS · PX4 · STM32 · TypeScript · Vue · FastAPI · Web Audio
+## Current mission
 
-[Portfolio · Global](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [Portfolio · China / 阿里云](http://47.109.136.234/) · [Email](mailto:1379475267@qq.com) · [Bilibili](https://space.bilibili.com/19876581)
+I am working with a student team on the secondary development of a **Nonconvex-α educational research drone**. My current learning path follows the complete autonomy loop:
 
-</div>
+`Sense -> Localize -> Plan -> Validate`
 
-## Currently
+- Preserve a recoverable source and configuration baseline before changing hardware-facing systems.
+- Connect Livox Mid-360 sensing, Faster-LIO localization, local planning, and PX4 flight control into one understandable workflow.
+- Move each change from static checks and simulation to propeller-off tests and controlled flight validation.
 
-- Developing and documenting a **Nonconvex-α educational research drone** with a student team.
-- Learning the complete ROS/PX4 workflow from sensing and localization to planning and flight validation.
-- Turning music theory and audio interaction into small, playable Web products.
+Alongside the drone work, I build full-stack and music-technology products that turn complex systems into usable, interactive tools.
 
-## Selected Work
+## Selected work
 
-| Project | What it does | Stack |
+| Project | What it demonstrates | Live |
 | --- | --- | --- |
-| [Nonconvex-α Standard Drone](https://github.com/1379475267-svg/nonconvex-alpha-standard) | A recoverable source snapshot and team workflow for secondary development of an educational research drone. | ROS 1, PX4, C++, Livox, Faster-LIO |
-| [String Blade](https://github.com/1379475267-svg/String-Blade) | A browser guitar-chord combat game using microphone, MIDI, and manual chord input. [在线体验 · Global](https://stringblade.netlify.app) · [在线体验 · 中国大陆](http://47.109.136.234/projects/string-blade/) | TypeScript, Phaser, Web Audio, Web MIDI |
-| [GameMemory](https://github.com/1379475267-svg/GameMemory) | A full-stack personal game archive for importing, rating, tagging, reviewing, and sharing game memories. [在线体验 · Global](https://1gamememory1.netlify.app) · [在线体验 · 中国大陆](http://47.109.136.234/projects/gamememory/) | Vue, Supabase, Netlify Functions |
-| [Fret & Key Theory Lab](https://github.com/1379475267-svg/fretboard-caged-lab) | A bilingual interactive guitar, piano, and music-theory visualizer. [在线体验 · Global](https://1379475267-svg.github.io/fretboard-caged-lab/) · [在线体验 · 中国大陆](http://47.109.136.234/projects/fretboard/) | JavaScript, HTML, CSS |
-| [Interactive Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) | A gesture-driven Three.js particle system with orbital motion and cinematic transitions. [在线体验 · Global](https://1379475267-svg.github.io/interactive-particle-saturn/) · 中国大陆体验：暂未部署 | Three.js, JavaScript, MediaPipe |
-| [ChordPilot](https://github.com/1379475267-svg/ChordPilot) | A music-tech app that turns uploaded audio into a synchronized chord timeline. Global 体验：暂未部署 · [在线体验 · 中国大陆](http://47.109.136.234/projects/chordpilot/) | Vue, FastAPI, librosa |
+| [Nonconvex-α Standard Drone](https://github.com/1379475267-svg/nonconvex-alpha-standard) | A recoverable team source snapshot and workflow for secondary development of an educational research drone.<br /><sub>ROS 1 / PX4 / C++ / Livox / Faster-LIO</sub> | Repository |
+| [GameMemory](https://github.com/1379475267-svg/GameMemory) | A personal game archive with Steam import, ratings, tags, reviews, and a local-data fallback.<br /><sub>Vue / Supabase / Netlify Functions</sub> | [Global](https://1gamememory1.netlify.app) / [China](https://fhrzz.me/projects/gamememory/) |
+| [String Blade](https://github.com/1379475267-svg/String-Blade) | A guitar-chord combat game supporting microphone, MIDI, and manual chord input.<br /><sub>TypeScript / Phaser / Web Audio / Web MIDI</sub> | [Global](https://stringblade.netlify.app) / [China](https://fhrzz.me/projects/string-blade/) |
+| [ChordPilot](https://github.com/1379475267-svg/ChordPilot) | An audio-analysis app that turns uploaded music into a synchronized chord timeline.<br /><sub>Vue / FastAPI / librosa</sub> | [China](https://fhrzz.me/projects/chordpilot/) |
 
-## Skills & Tools
+More experiments: [Fret & Key Theory Lab](https://github.com/1379475267-svg/fretboard-caged-lab) ([Global](https://1379475267-svg.github.io/fretboard-caged-lab/) / [China](https://fhrzz.me/projects/fretboard/)) / [Interactive Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) ([Global](https://1379475267-svg.github.io/interactive-particle-saturn/)) / [All repositories](https://github.com/1379475267-svg?tab=repositories)
 
-<div align="center">
+## Capability map
 
-### Autonomous Systems & Embedded
+| Focus | Working stack | Evidence |
+| --- | --- | --- |
+| Autonomous systems | ROS 1, PX4, MAVROS, Livox, Faster-LIO, C++ | [Drone source, configuration, and team workflow](https://github.com/1379475267-svg/nonconvex-alpha-standard) |
+| Product engineering | TypeScript, Vue, Vite, FastAPI, Supabase | [GameMemory](https://github.com/1379475267-svg/GameMemory) and [ChordPilot](https://github.com/1379475267-svg/ChordPilot) |
+| Interactive systems | Phaser, Three.js, Web Audio, Web MIDI, librosa | [String Blade](https://github.com/1379475267-svg/String-Blade), [ChordPilot](https://github.com/1379475267-svg/ChordPilot), and [Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) |
+| Embedded foundations <sub>(currently learning)</sub> | C, STM32, sensor input and alert output | [Smart Fishing Alert](https://github.com/1379475267-svg/smart-fishing-alert), an early-stage learning project |
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,ros,linux,bash,git&theme=dark" alt="C++, C, Python, ROS, Linux, Bash and Git" />
+## Engineering approach
 
-<br />
+- **Preserve the baseline.** Keep original code, configuration, and known-good behavior recoverable.
+- **Test in layers.** Verify assumptions through static checks, simulation, hardware-safe tests, and controlled real-world trials.
+- **Document the evidence.** Record what changed, why it changed, and what proved the result.
+- **Ship understandable systems.** Prefer working, inspectable tools over opaque demos.
 
-![PX4](https://img.shields.io/badge/PX4-111111?style=flat-square&logo=px4&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![MAVROS](https://img.shields.io/badge/MAVROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![Livox](https://img.shields.io/badge/Livox%20Mid--360-00A6A6?style=flat-square)
-![Faster--LIO](https://img.shields.io/badge/Faster--LIO-5C6BC0?style=flat-square)
-![Diff--Planner](https://img.shields.io/badge/Diff--Planner-7C3AED?style=flat-square)
-
-### Full-stack Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,nodejs,python,fastapi,django,supabase,postgres&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Vue, Vite, Node.js, Python, FastAPI, Django, Supabase and PostgreSQL" />
-
-### Creative Technology
-
-<img src="https://skillicons.dev/icons?i=threejs,js,ts,html,css&theme=dark" alt="Three.js, JavaScript, TypeScript, HTML and CSS" />
-
-<br />
-
-![Phaser](https://img.shields.io/badge/Phaser-2F75C0?style=flat-square)
-![Web Audio](https://img.shields.io/badge/Web%20Audio-FF6B6B?style=flat-square)
-![Web MIDI](https://img.shields.io/badge/Web%20MIDI-7C3AED?style=flat-square)
-![librosa](https://img.shields.io/badge/librosa-Audio%20Analysis-4B8BBE?style=flat-square)
-
-</div>
-
-## How I Build
-
-I preserve a recoverable baseline, test changes in layers, and document why each experiment succeeds or fails. For hardware-facing work, I move from static checks and simulation to propeller-off testing and controlled real-world validation.
-
-## More Projects
-
-- Portfolio — [Global / GitHub Pages](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [China / 阿里云](http://47.109.136.234/)
-- [All repositories](https://github.com/1379475267-svg?tab=repositories)
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution activity snake animation" src="https://cdn.jsdelivr.net/gh/1379475267-svg/1379475267-svg@output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
-*Build carefully, learn openly, and keep useful experiments reproducible.*
-
-</div>
+<p align="center">
+  <em>Build carefully, learn openly, and keep useful experiments reproducible.</em>
+</p>
