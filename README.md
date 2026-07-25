@@ -1,26 +1,16 @@
-<p align="center">
-  <img src="./assets/nonconvex-flight-banner.webp" width="100%" alt="Nonconvex-alpha drone indoor navigation demo" />
-  <br />
-  <sub>Indoor navigation demo from the Nonconvex-α educational research drone project.</sub>
-</p>
+<div align="center">
 
-<h1 align="center">Haoran Fei</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=170&section=header&text=Haoran%20Fei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Haoran Fei header" />
 
-<p align="center">
-  <strong>Electronic Information Science student building autonomous systems, embedded devices, and creative software.</strong>
-  <br />
-  <sub>ROS 1 / PX4 / STM32 / TypeScript / Vue / FastAPI / Web Audio</sub>
-</p>
+# Hi, I'm Haoran Fei 👋
 
-<p align="center">
-  <a href="https://1379475267-svg.github.io/haoran-fei-portfolio/"><strong>Portfolio - Global</strong></a>
-  &nbsp;/&nbsp;
-  <a href="https://fhrzz.me/"><strong>Portfolio - China</strong></a>
-  &nbsp;/&nbsp;
-  <a href="mailto:1379475267@qq.com">Email</a>
-  &nbsp;/&nbsp;
-  <a href="https://space.bilibili.com/19876581">Bilibili</a>
-</p>
+**Electronic Information Science student building autonomous systems, embedded devices, and creative software.**
+
+ROS · PX4 · STM32 · TypeScript · Vue · FastAPI · Web Audio
+
+[Portfolio · Global](https://1379475267-svg.github.io/haoran-fei-portfolio/) · [Portfolio · China](https://fhrzz.me/) · [Email](mailto:1379475267@qq.com) · [Bilibili](https://space.bilibili.com/19876581)
+
+</div>
 
 ## Current mission
 
@@ -47,12 +37,12 @@ More experiments: [Fret & Key Theory Lab](https://github.com/1379475267-svg/fret
 
 ## Capability map
 
-| Focus | Working stack | Evidence |
+| Focus | Tools | Evidence |
 | --- | --- | --- |
-| Autonomous systems | ROS 1, PX4, MAVROS, Livox, Faster-LIO, C++ | [Drone source, configuration, and team workflow](https://github.com/1379475267-svg/nonconvex-alpha-standard) |
-| Product engineering | TypeScript, Vue, Vite, FastAPI, Supabase | [GameMemory](https://github.com/1379475267-svg/GameMemory) and [ChordPilot](https://github.com/1379475267-svg/ChordPilot) |
-| Interactive systems | Phaser, Three.js, Web Audio, Web MIDI, librosa | [String Blade](https://github.com/1379475267-svg/String-Blade), [ChordPilot](https://github.com/1379475267-svg/ChordPilot), and [Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) |
-| Embedded foundations <sub>(currently learning)</sub> | C, STM32, sensor input and alert output | [Smart Fishing Alert](https://github.com/1379475267-svg/smart-fishing-alert), an early-stage learning project |
+| **Autonomous systems** | <img height="30" src="https://skillicons.dev/icons?i=cpp,python,ros,linux,bash,git&theme=dark" alt="C++, Python, ROS, Linux, Bash, and Git" /><br />![PX4](https://img.shields.io/badge/PX4-111111?style=flat-square&logo=px4&logoColor=white) ![MAVROS](https://img.shields.io/badge/MAVROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Livox](https://img.shields.io/badge/Livox%20Mid--360-00A6A6?style=flat-square) ![Faster-LIO](https://img.shields.io/badge/Faster--LIO-5C6BC0?style=flat-square)<br /><sub>ROS 1 · PX4 · MAVROS · Livox · Faster-LIO · C++</sub> | [Drone source, configuration, and team workflow](https://github.com/1379475267-svg/nonconvex-alpha-standard) |
+| **Product engineering** | <img height="30" src="https://skillicons.dev/icons?i=ts,vue,vite,nodejs,python,fastapi,supabase,postgres&theme=dark" alt="TypeScript, Vue, Vite, Node.js, Python, FastAPI, Supabase, and PostgreSQL" /><br /><sub>TypeScript · Vue · Vite · Node.js · FastAPI · Supabase · PostgreSQL</sub> | [GameMemory](https://github.com/1379475267-svg/GameMemory) and [ChordPilot](https://github.com/1379475267-svg/ChordPilot) |
+| **Interactive systems** | <img height="30" src="https://skillicons.dev/icons?i=threejs,js,ts,html,css&theme=dark" alt="Three.js, JavaScript, TypeScript, HTML, and CSS" /><br />![Phaser](https://img.shields.io/badge/Phaser-2F75C0?style=flat-square) ![Web Audio](https://img.shields.io/badge/Web%20Audio-FF6B6B?style=flat-square) ![Web MIDI](https://img.shields.io/badge/Web%20MIDI-7C3AED?style=flat-square) ![librosa](https://img.shields.io/badge/librosa-Audio%20Analysis-4B8BBE?style=flat-square)<br /><sub>Phaser · Three.js · Web Audio · Web MIDI · librosa</sub> | [String Blade](https://github.com/1379475267-svg/String-Blade), [ChordPilot](https://github.com/1379475267-svg/ChordPilot), and [Particle Saturn](https://github.com/1379475267-svg/interactive-particle-saturn) |
+| **Embedded foundations** <sub>(currently learning)</sub> | <img height="30" src="https://skillicons.dev/icons?i=c,cpp,linux,git&theme=dark" alt="C, C++, Linux, and Git" /><br />![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)<br /><sub>C · C++ · STM32 · sensor input · alert output</sub> | [Smart Fishing Alert](https://github.com/1379475267-svg/smart-fishing-alert), an early-stage learning project |
 
 ## Engineering approach
 
