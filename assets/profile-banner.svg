@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">Haoran Fei</title>
+  <desc id="description">Autonomous systems and creative software. Personal portfolio at fhrzz.me.</desc>
+  <rect width="1280" height="320" rx="12" fill="#11120f"/>
+  <path d="M64 58H120" stroke="#c6ad75" stroke-width="3"/>
+  <text x="60" y="152" fill="#f1eee6" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-2">Haoran Fei</text>
+  <text x="64" y="205" fill="#c5c5ba" font-family="Arial, Helvetica, sans-serif" font-size="26">Autonomous systems · Creative software</text>
+  <text x="64" y="267" fill="#c6ad75" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">fhrzz.me</text>
+  <g fill="none" stroke="#c6ad75" stroke-width="1">
+    <circle cx="1110" cy="160" r="102" opacity="0.18"/>
+    <circle cx="1110" cy="160" r="70" opacity="0.11"/>
+    <path d="M1008 160H1025M1195 160H1212M1110 58V75M1110 245V262" opacity="0.45"/>
+    <path d="M1110 58A102 102 0 0 1 1205.8 125.1" stroke-width="2" opacity="0.9"/>
+  </g>
+  <circle cx="1205.8" cy="125.1" r="5" fill="#c6ad75"/>
+  <path d="M64 298H1216" stroke="#c6ad75" stroke-opacity="0.15"/>
+</svg>
